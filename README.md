@@ -1,6 +1,5 @@
 <span><p align="center">![kv](/assets/kv.png)</p></span>
 
-## colorize
 一个基于[picocolors](https://github.com/SimonHe1995/picocolors)封装的colorful terminal输出库
 
 ![screenshot](/assets/screenshot.png)
