@@ -1,5 +1,9 @@
+<span><p align="center">![kv](/assets/kv.png)</p></span>
+
 ## colorize
 一个基于[picocolors](https://github.com/SimonHe1995/picocolors)封装的colorful terminal输出库
+
+![screenshot](/assets/screenshot.png)
 
 ## Install
 ```
@@ -8,22 +12,22 @@
 
 ## Usage
 ```js
-  import colorize from '@simonhe/colorize'
+import colorize from '@simonhe/colorize'
 
-  colorize({
-    text:'hi',
-    color:'red',
-  })
-  colorize({
-    text:'hi',
-    bgColor:'red',
-  })
-  colorize({
-    text:'hi',
-    bgColor:'red',
-    dimmed:true
-  })
-  /*
+colorize({
+  text: 'hi',
+  color: 'red',
+})
+colorize({
+  text: 'hi',
+  bgColor: 'red',
+})
+colorize({
+  text: 'hi',
+  bgColor: 'red',
+  dimmed: true
+})
+/*
   color?: IColors
   bgColor?: IColors
   dimmed?: boolean
