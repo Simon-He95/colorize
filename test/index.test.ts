@@ -1,5 +1,5 @@
 import { describe, it } from 'vitest'
-import colorize from '../dist'
+import colorize from '../src'
 
 describe('should', () => {
   it('exported', () => {
