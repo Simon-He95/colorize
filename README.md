@@ -11,7 +11,7 @@
 
 ## Usage
 ```js
-import colorize from '@simonhe/colorize'
+import colorize from '@simon_he/colorize'
 
 colorize({
   text: 'hi',
