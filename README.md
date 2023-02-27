@@ -6,7 +6,7 @@
 
 ## Install
 ```
-  npm i @simonhe/colorize
+  npm i @simon_he/colorize
 ```
 
 ## Usage
